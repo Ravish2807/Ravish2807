@@ -4,8 +4,8 @@
 
 My focus is on bridging the gap between advanced simulation and real-world mobile robotics.
 
-🏎️ **"Nothing Just CARS CARS CARS"**
-Passion for vehicle dynamics, ADAS, and the future of autonomous mobility.
+Basically from my 8 to 18 🏎️ **"Nothing Just CARS CARS CARS"**
+Passion for vehicle dynamics, ADAS, and the future of autonomous mobility towards the safety drive.
 
 ---
 
