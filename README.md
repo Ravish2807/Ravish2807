@@ -5,7 +5,7 @@
 My focus is on bridging the gap between advanced simulation and real-world mobile robotics.3D Visualization is the most frequent stuff I love to work and think of it in any possible case occuring daily in my routine.
 
 Basically from my 8 to 18 🏎️ **"Nothing Just CARS CARS CARS"**
-Passion for vehicle dynamics, ADAS, and the future of autonomous mobility towards the safety drive.
+Passion for vehicle dynamics, ADAS, and the future of autonomous mobility towards the active safety system for your drive.
 
 ---
 
